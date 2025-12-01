@@ -25,10 +25,10 @@
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-vQv-Y&theme=radical" width="100%" />
 </div>
-
+<p align="center">
 ![MOBAIcons](https://mobaicons.com/all)
-
+</p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://widgetbite.com/banner?title=THE%20END!&subtitle=Hope%20your%20program%20is%20bug-free!&backgroundpalette=twilight&fontpalette=water&titletransform=scale&subtitletransform=scale" width=100% height=100%/>
 </p>
