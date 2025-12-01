@@ -27,7 +27,7 @@
 </div>
 
 
-![MOBAIcons](https://mobaicons.com/all)
+![MOBAIcons](https://mobaicons.com/all?perline=19)
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
