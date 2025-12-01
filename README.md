@@ -25,9 +25,10 @@
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-vQv-Y&theme=radical" width="100%" />
 </div>
-<p align="center">
+
+<div align="center">
 ![MOBAIcons](https://mobaicons.com/all)
-</p>
+</div>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://widgetbite.com/banner?title=THE%20END!&subtitle=Hope%20your%20program%20is%20bug-free!&backgroundpalette=twilight&fontpalette=water&titletransform=scale&subtitletransform=scale" width=100% height=100%/>
